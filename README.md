@@ -48,7 +48,7 @@ This project is built using:
 - HTML
 - MariaDB
 
-The system uses PHP for backend logic and user interaction, MySQL for structured data storage and CSS for the user interface and styling.
+The system uses PHP for backend logic and user interaction, MariaDB for structured data storage and CSS for the user interface and styling.
 
 ## Project Goals
 
