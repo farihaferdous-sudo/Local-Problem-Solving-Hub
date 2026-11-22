@@ -43,7 +43,7 @@ The goal of this project is to create a digital bridge between citizens and loca
 This project is built using:
 
 - PHP
-- MySQL
+- SQL
 - CSS
 - HTML
 - MariaDB
